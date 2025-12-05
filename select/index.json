@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Girls Never Die",
+  "base_artist": "tripleS",
+  "createdAt": "2025-12-05T14:43:12.713976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girls Never Die",
+      "artist": "tripleS",
+      "has_synced": true,
+      "path": "select/01_Girls_Never_Die_tripleS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girls Never Die",
+      "artist": "Triples",
+      "has_synced": true,
+      "path": "select/02_Girls_Never_Die_Triples.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girls Never Die",
+      "artist": "tripleS (트리플에스)",
+      "has_synced": true,
+      "path": "select/03_Girls_Never_Die_tripleS_(트리플에스).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girls Never Die",
+      "artist": "Triples",
+      "has_synced": true,
+      "path": "select/04_Girls_Never_Die_Triples.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Girls Never Die (inst.)",
+      "artist": "tripleS",
+      "has_synced": false,
+      "path": "select/05_Girls_Never_Die_(inst.)_tripleS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Young Girls Never Die",
+      "artist": "Helen Ganya",
+      "has_synced": false,
+      "path": "select/06_Young_Girls_Never_Die_Helen_Ganya.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girls Never Die",
+      "artist": "tripleS",
+      "has_synced": false,
+      "path": "select/pl_01_Girls_Never_Die_tripleS.txt"
+    }
+  ]
+}
